@@ -63,6 +63,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Marioom555/Marioom555/output/snake.svg" alt="Snake animation" />
-
-###
