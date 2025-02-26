@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋! My name is Mariam Ashraf<br>An AI Engineer from Egypt</h1>
+<br clear="both">
+
+<h1 align="center">Hi 👋! My name is Mariam Ashraf<br>AI Engineer from Egypt</h1>
 
 ###
 
@@ -63,3 +65,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Marioom555/Marioom555/output/snake.svg" alt="Snake animation" />
+
+###
