@@ -20,51 +20,85 @@
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" /> Python<br/>
-<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" /> C++<br/>
-<img src="https://skillicons.dev/icons?i=js,ts" width="40" height="40" /> JavaScript, TypeScript
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" /><br/>Python<br/>
+<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" /><br/>C++<br/>
+<img src="https://skillicons.dev/icons?i=js,ts" width="40" height="40" /><br/>JS, TS
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /> TensorFlow<br/>
-<img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" /> PyTorch<br/>
-<img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" /> OpenCV<br/>
-<img src="https://skillicons.dev/icons?i=scikit" width="40" height="40" /> Scikit-Learn
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /><br/>TensorFlow<br/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" /><br/>PyTorch<br/>
+<img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" /><br/>OpenCV<br/>
+<img src="https://skillicons.dev/icons?i=scikit" width="40" height="40" /><br/>Scikit-Learn
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" /> Docker<br/>
-<img src="https://skillicons.dev/icons?i=mlflow" width="40" height="40" /> MLflow<br/>
-<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" /> AWS
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" /><br/>Docker<br/>
+<img src="https://skillicons.dev/icons?i=mlflow" width="40" height="40" /><br/>MLflow<br/>
+<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" /><br/>AWS
 </td>
 </tr>
+</table>
 
+---
+
+## 📊 Data Visualization & Analytics
+
+<table align="center">
 <tr>
-<td align="center"><b>Visualization</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>Web & Tools</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=matplotlib" width="50" height="50" /><br/>Matplotlib
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=seaborn" width="50" height="50" /><br/>Seaborn
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=plotly" width="50" height="50" /><br/>Plotly
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=powerbi" width="50" height="50" /><br/>Power BI
+</td>
 </tr>
+</table>
 
+---
+
+## 🗄️ Databases
+
+<table align="center">
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=matplotlib" width="40" height="40" /> Matplotlib<br/>
-<img src="https://skillicons.dev/icons?i=seaborn" width="40" height="40" /> Seaborn<br/>
-<img src="https://skillicons.dev/icons?i=plotly" width="40" height="40" /> Plotly<br/>
-<img src="https://skillicons.dev/icons?i=powerbi" width="40" height="40" /> Power BI
+<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" /><br/>PostgreSQL
 </td>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" /> PostgreSQL<br/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" /> MongoDB<br/>
-<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" /> MySQL
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" /><br/>MongoDB
 </td>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="40" height="40" /> HTML<br/>
-<img src="https://skillicons.dev/icons?i=css" width="40" height="40" /> CSS<br/>
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40" /> React<br/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" /> Node.js<br/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" /> FastAPI
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" /><br/>MySQL
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Web & Tools
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40" height="40" /><br/>HTML
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40" height="40" /><br/>CSS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40" /><br/>React
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" /><br/>Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" /><br/>FastAPI
 </td>
 </tr>
 </table>
