@@ -52,7 +52,7 @@
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="50"/><br/>Seaborn
 </td>
 <td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/plotly.svg" alt="Plotly" width="60" height="60"/><br/>Plotly
+<img src="[https://cdn.worldvectorlogo.com/logos/plotly.svg](https://marketplace.microsoft.com/en-us/product/saas/plotlytechnologiesinc1579709143597.de01?tab=overview)" alt="Plotly" width="60" height="60"/><br/>Plotly
 </td>
 <td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="80" height="60"/><br/>Power BI
