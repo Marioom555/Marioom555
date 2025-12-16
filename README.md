@@ -4,7 +4,6 @@
 
 <h3 align="center">
   AI Engineer 🤖 <br/>
-  Computer & Software Engineering Graduate 🎓 <br/>
 </h3>
 
 ---
@@ -21,14 +20,17 @@
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+<br/><b>Python, C++, JS, TS</b>
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikit" />
+<br/><b>TensorFlow, PyTorch, OpenCV, Scikit-Learn</b>
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker,mlflow,aws" />
+<br/><b>Docker, MLflow, AWS</b>
 </td>
 </tr>
 
@@ -41,14 +43,17 @@
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,plotly" />
+<br/><b>Matplotlib, Seaborn, Plotly</b>
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<br/><b>PostgreSQL, MongoDB, MySQL</b>
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi" />
+<br/><b>HTML, CSS, React, Node.js, FastAPI</b>
 </td>
 </tr>
 </table>
@@ -59,18 +64,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Expert-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML%20Projects-Active-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-LLMs-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Projects-Active-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-LLMs-Purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MLOps-Docker%20MLflow-black?style=for-the-badge" />
 </p>
-
----
-
-## 🔭 Current Focus
-
-- AI / LLMs / RAG Projects 🤖  
-- MLOps & Deployment (MLflow, Docker, AWS) ☁️  
-- FastAPI & Python Web APIs 🌐  
 
 ---
 
@@ -78,15 +75,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marioom555&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marioom555&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marioom555&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marioom555&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
