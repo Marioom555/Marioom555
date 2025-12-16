@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" /><br/>TensorFlow<br/>
 <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" /><br/>PyTorch<br/>
 <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" /><br/>OpenCV<br/>
-<img src="https://skillicons.dev/icons?i=scikit" width="50" height="50" /><br/>Scikit-Learn
+<img src="[https://skillicons.dev/icons?i=scikit](https://share.google/dVRvhetttughAVOeE)" width="50" height="50" /><br/>Scikit-Learn
 </td>
 
 <td align="center">
@@ -54,7 +54,7 @@
     Seaborn
   </td>
   <td align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/plotly.svg" alt="Plotly" width="60" height="60"/><br/>
+    <img src="[https://cdn.worldvectorlogo.com/logos/plotly.svg](https://share.google/atPwfQsttmq6SAfI3)" alt="Plotly" width="60" height="60"/><br/>
     Plotly
   </td>
   <td align="center">
