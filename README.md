@@ -4,7 +4,7 @@
 
 <h3 align="center">
   AI Engineer 🤖 <br/>
-  Computer & Software Engineering Graduate 🎓
+
 </h3>
 
 ---
@@ -60,6 +60,7 @@
 </td>
 </tr>
 </table>
+
 
 ---
 
