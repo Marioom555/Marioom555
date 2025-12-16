@@ -120,9 +120,6 @@
 <a href="https://www.linkedin.com/in/mariam-ashraf-3654411b7/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
 </a>
-<a href="https://www.kaggle.com/YOUR_KAGGLE" target="_blank">
-  <img src="https://skillicons.dev/icons?i=kaggle" width="40" height="40"/>
-</a>
 <a href="https://github.com/Marioom555" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
 </a>
