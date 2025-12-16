@@ -54,7 +54,7 @@
     Seaborn
   </td>
   <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Plotly-logo.png" alt="Plotly" width="60" height="60"/><br/>
+    <img src="https://cdn.worldvectorlogo.com/logos/plotly.svg" alt="Plotly" width="60" height="60"/><br/>
     Plotly
   </td>
   <td align="center">
@@ -63,6 +63,9 @@
   </td>
 </tr>
 </table>
+
+
+
 
 
 
