@@ -47,19 +47,16 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=matplotlib" width="50" height="50" /><br/>Matplotlib
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=seaborn" width="50" height="50" /><br/>Seaborn
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=plotly" width="50" height="50" /><br/>Plotly
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=powerbi" width="50" height="50" /><br/>Power BI
+  <!-- Icons for Matplotlib, Seaborn, Plotly, Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/><br/>Matplotlib
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/><br/>Seaborn
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="100" height="40"/><br/>Power BI
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Plotly-logo.png" alt="Plotly" width="60" height="50"/><br/>Plotly
 </td>
 </tr>
 </table>
+
+
 
 ---
 
