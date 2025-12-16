@@ -20,22 +20,22 @@
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" /><br/>Python<br/>
-<img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" /><br/>C++<br/>
-<img src="https://skillicons.dev/icons?i=js,ts" width="40" height="40" /><br/>JS, TS
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python<br/>
+<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" /><br/>C++<br/>
+<img src="https://skillicons.dev/icons?i=js,ts" width="50" height="50" /><br/>JavaScript, TypeScript
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" /><br/>TensorFlow<br/>
-<img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" /><br/>PyTorch<br/>
-<img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" /><br/>OpenCV<br/>
-<img src="https://skillicons.dev/icons?i=scikit" width="40" height="40" /><br/>Scikit-Learn
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" /><br/>TensorFlow<br/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" /><br/>PyTorch<br/>
+<img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" /><br/>OpenCV<br/>
+<img src="https://skillicons.dev/icons?i=scikit" width="50" height="50" /><br/>Scikit-Learn
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" /><br/>Docker<br/>
-<img src="https://skillicons.dev/icons?i=mlflow" width="40" height="40" /><br/>MLflow<br/>
-<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" /><br/>AWS
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" /><br/>Docker<br/>
+<img src="https://skillicons.dev/icons?i=mlflow" width="50" height="50" /><br/>MLflow<br/>
+<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" /><br/>AWS
 </td>
 </tr>
 </table>
@@ -61,7 +61,6 @@
 </tr>
 </table>
 
-
 ---
 
 ## 🗄️ Databases
@@ -69,13 +68,13 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" /><br/>PostgreSQL
+<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" /><br/>PostgreSQL
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" /><br/>MongoDB
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /><br/>MongoDB
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" /><br/>MySQL
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" /><br/>MySQL
 </td>
 </tr>
 </table>
@@ -87,19 +86,19 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="40" height="40" /><br/>HTML
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" /><br/>HTML
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="40" height="40" /><br/>CSS
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" /><br/>CSS
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40" /><br/>React
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" /><br/>React
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" /><br/>Node.js
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /><br/>Node.js
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" /><br/>FastAPI
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" /><br/>FastAPI
 </td>
 </tr>
 </table>
@@ -119,9 +118,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mariam-ashraf-3654411b7/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
+</a>
+<a href="https://www.kaggle.com/YOUR_KAGGLE" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kaggle" width="50" height="50"/>
 </a>
 <a href="https://github.com/Marioom555" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
 </a>
 </p>
