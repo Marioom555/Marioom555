@@ -4,7 +4,6 @@
 
 <h3 align="center">
   AI Engineer 🤖 <br/>
-
 </h3>
 
 ---
@@ -29,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" /><br/>TensorFlow<br/>
 <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" /><br/>PyTorch<br/>
 <img src="https://skillicons.dev/icons?i=opencv" width="50" height="50" /><br/>OpenCV<br/>
-<img src="[https://skillicons.dev/icons?i=scikit](https://share.google/dVRvhetttughAVOeE)" width="50" height="50" /><br/>Scikit-Learn
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="50" height="50" /><br/>Scikit-Learn
 </td>
 
 <td align="center">
@@ -41,33 +40,25 @@
 </table>
 
 ---
+
 ## 📊 Data Visualization & Analytics
 
 <table align="center">
 <tr>
-  <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="60" height="60"/><br/>
-    Matplotlib
-  </td>
-  <td align="center">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="50"/><br/>
-    Seaborn
-  </td>
-  <td align="center">
-    <img src="[https://cdn.worldvectorlogo.com/logos/plotly.svg](https://share.google/atPwfQsttmq6SAfI3)" alt="Plotly" width="60" height="60"/><br/>
-    Plotly
-  </td>
-  <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="80" height="60"/><br/>
-    Power BI
-  </td>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="60" height="60"/><br/>Matplotlib
+</td>
+<td align="center">
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="50"/><br/>Seaborn
+</td>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/plotly.svg" alt="Plotly" width="60" height="60"/><br/>Plotly
+</td>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="80" height="60"/><br/>Power BI
+</td>
 </tr>
 </table>
-
-
-
-
-
 
 ---
 
@@ -128,7 +119,6 @@
 <a href="https://www.linkedin.com/in/mariam-ashraf-3654411b7/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
 </a>
-
 <a href="https://github.com/Marioom555" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
 </a>
