@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer 💻 <br/>
+  AI Engineer 🤖 <br/>
   Computer & Software Engineering Graduate 🎓 <br/>
 </h3>
 
@@ -55,6 +55,25 @@
 
 ---
 
+## 🎖️ Achievements & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Expert-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML%20Projects-Active-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-LLMs-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Docker%20MLflow-black?style=for-the-badge" />
+</p>
+
+---
+
+## 🔭 Current Focus
+
+- AI / LLMs / RAG Projects 🤖  
+- MLOps & Deployment (MLflow, Docker, AWS) ☁️  
+- FastAPI & Python Web APIs 🌐  
+
+---
+
 ## ⚡ GitHub Stats
 
 <p align="center">
@@ -88,9 +107,16 @@
 
 ---
 
-## 🔭 Current Focus
+## 📂 Featured Projects
 
-- AI / LLMs / RAG Projects 🤖  
-- MLOps & Deployment (MLflow, Docker, AWS) ☁️  
-- FastAPI & Python Web APIs 🌐  
-
+<p align="center">
+  <a href="https://github.com/Marioom555/Project1" target="_blank">
+    <img src="https://img.shields.io/badge/AI-Project1-purple?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Marioom555/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/ML-Project2-black?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Marioom555/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/RAG-Project3-purple?style=for-the-badge" />
+  </a>
+</p>
